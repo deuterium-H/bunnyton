@@ -1,7 +1,7 @@
 {
 	"url": "https://bytap.netlify.app/",
 	"name": "BunnyTon",
-	"iconUrl": "https://raw.githubusercontent.com/tongoldminer/tongoldminer/main/logo.png",
-	"termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/terms-of-use.txt",
-	"privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/privacy-policy.txt"
+	"iconUrl": "https://raw.githubusercontent.com/deuterium-H/bunnyton/main/coin.png",
+	"termsOfUseUrl": "https://raw.githubusercontent.com/deuterium-H/bunnyton/main/terms.txt",
+	"privacyPolicyUrl": "https://raw.githubusercontent.com/deuterium-H/bunnyton/main/privacy.txt"
 }
